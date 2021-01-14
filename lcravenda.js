@@ -1,6 +1,6 @@
 var telegram = require("telegram-bot-api");
 var api = new telegram({
- token: "584447578:AAFbUi9CX_DZuzERa_0flwCAialR7SGZj3M",
+ token: "yourtoken",
  updates: {
   enabled: true,
   get_interval: 1000
